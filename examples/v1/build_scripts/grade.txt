@@ -1,0 +1,1 @@
+eq=contrast=1.07:gamma=0.98,curves=master='0/0 0.10/0.085 0.5/0.5 0.80/0.78 0.92/0.87 1/0.93',huesaturation=saturation=-0.40:colors=g+c:strength=2,huesaturation=saturation=-0.15:colors=b+y:strength=1.5,colorbalance=rh=0.015:bh=-0.01,vignette=angle=0.30:mode=forward

@@ -1,0 +1,5 @@
+# Optional: only for the weekly @__dviet style study (pipeline/analysis/*). Pinned from the reference box.
+scenedetect==0.7.1
+librosa==1.0.0
+demucs==4.1.0
+yt-dlp==2026.8.19
